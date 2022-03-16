@@ -18,6 +18,10 @@ body {
 /* Header */
 
 header {
+  width: 100%;
+  position: fixed;
+  top: 0;
+  z-index: 10;
   background-color: #2f3440;
   text-align: right;
   border-bottom: 1px solid white;
@@ -54,6 +58,11 @@ header a:active {
 }
 
 /* Main Content */
+
+main {
+  position: relative;
+  top: 45.6px;
+}
 
 main p {
   font-size: 1.125rem;
@@ -156,6 +165,8 @@ main p {
 /* Footer */
 
 footer {
+  position: relative;
+  top: 45.6px;
   background-color: #2f3440;
 }
 
