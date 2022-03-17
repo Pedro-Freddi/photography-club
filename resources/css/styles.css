@@ -6,7 +6,6 @@
 
 body {
   font-family: Alegreya, serif;
-  min-width: 380px;
   margin: 0;
   padding: 0;
 }
@@ -186,5 +185,16 @@ footer p {
 
   footer p {
     font-size: 0.875rem;
+  }
+}
+
+@media only screen and (max-width: 290px) {
+  header li {
+    font-size: 1rem;
+  }
+
+  main {
+    position: relative;
+    top: 41.6px;
   }
 }
