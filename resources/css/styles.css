@@ -158,6 +158,18 @@ main p {
   text-align: center;
 }
 
+#contact a {
+  color: black;
+}
+
+#contact a:hover {
+  color: red;
+}
+
+#contact a:active {
+  color: black;
+}
+
 /* Footer */
 
 footer {
