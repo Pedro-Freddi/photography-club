@@ -4,7 +4,7 @@ This project is a responsive webpage designed for a fictional photography club c
 
 The webpage is fully responsive and adjusts to different screen sizes, which was achieved by using Flexbox and media queries.
 
-You can find the live version [here](https://pedro-freddi.github.io/photography-club/).
+You can find the live version [here](https://pda-freddi.github.io/photography-club/).
 
 ## Technologies
 
